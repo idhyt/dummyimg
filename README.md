@@ -1,1 +1,1 @@
-images
+images likes `https://raw.githubusercontent.com/idhyt/dummyimg/master/blogs/daily/xxx.jpg`
